@@ -1,0 +1,6 @@
+Resources used to complete the project:
+
+1. Udacity website
+2. Stack Overflow
+3. ggplot.tidyverse.org
+4. R documentation
